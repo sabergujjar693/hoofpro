@@ -1,0 +1,27 @@
+{
+  "checkedOn": "2026-11-10",
+  "sourceUrl": "https://www.farriershop.com.au/remote.php?w=getProductAttributeDetails&product_id=1026&attribute%5B286%5D=388",
+  "response": {
+    "success": 1,
+    "details": {
+      "purchasable": false,
+      "purchasingMessage": "Sorry, this set of options is temporarily out of stock.",
+      "sku": "GEPULLEZE12",
+      "instock": true,
+      "unformattedPrice": "365",
+      "base": false,
+      "baseImage": "https://cdn2.bigcommerce.com/server5300/93f31/products/1026/images/1789/1-GE-EZ-Pull-Offs-12-inch-Copyright-P3-Equestrian__48049.1547606582.1280.1280.jpg?c=2",
+      "baseThumb": "https://cdn2.bigcommerce.com/server5300/93f31/products/1026/images/1789/1-GE-EZ-Pull-Offs-12-inch-Copyright-P3-Equestrian__48049.1547606582.460.500.jpg?c=2",
+      "image": "https://cdn2.bigcommerce.com/server5300/93f31/product_images/attribute_rule_images/2387_zoom_1552525193.jpg",
+      "thumb": "https://cdn2.bigcommerce.com/server5300/93f31/product_images/attribute_rule_images/2387_std_1552525193.jpg",
+      "imageRuleId": 2387,
+      "inStockPickListItems": [],
+      "optionOutOfStockBehavior": "do_nothing",
+      "outOfStockMessage": "Discontinued.",
+      "price": "$365.00",
+      "rrp": "$0.00",
+      "unformattedRrp": 0,
+      "priceLabel": "Price:"
+    }
+  }
+}

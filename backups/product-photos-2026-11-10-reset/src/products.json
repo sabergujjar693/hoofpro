@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1,
+    "name": "Hoof Nippers",
+    "price": 89,
+    "category": "Hoof Trimming",
+    "purpose": "Trim excess hoof wall.",
+    "description": "Hoof Nippers is a practical addition to a professional farrier toolkit, designed to trim excess hoof wall. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Illustrative forged-steel cutting jaws",
+      "Long leverage handles",
+      "Manual trimming tool"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-1ff035b754c6",
+        "src": "/images/products/hoof-nippers/hoof-nippers-01.webp",
+        "alt": "Hoof nippers — full view; brand and length unverified",
+        "originalName": "3EN_SvENn1eqlLuSYJWOs_saU-6s6n0OkBoI3FyDdci0Mx_CH_koIFcoNp56ZHWqBWEnkDoMWgQGUIQu1dEVKH9vNd4Ly6U-CCQJr9WvNoZArK0IxzXlyzdY2aECv_aMvbOUfbEYABcRyM2SddluKsdGlfACQXjBnusBH1voQ50Dl3bKU-i9x5SGidf1xIml.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 800,
+        "height": 800
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hoof Knife",
+    "price": 49.9,
+    "category": "Hoof Trimming",
+    "purpose": "Trim loose sole and frog material.",
+    "description": "Hoof Knife is a practical addition to a professional farrier toolkit, designed to trim loose sole and frog material. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Left- or right-hand orientation",
+      "Curved working blade",
+      "Comfort-grip handle"
+    ],
+    "variants": [
+      "Left hand",
+      "Right hand"
+    ],
+    "image": "",
+    "images": []
+  },
+  {
+    "id": 3,
+    "name": "Hoof Rasp",
+    "price": 36.7,
+    "category": "Hoof Trimming",
+    "purpose": "Shape and smooth the hoof wall.",
+    "description": "Hoof Rasp is a practical addition to a professional farrier toolkit, designed to shape and smooth the hoof wall. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Double-sided rasping surfaces",
+      "Hand finishing tool",
+      "Compatible with rasp handles"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-2085cd4ece29",
+        "src": "/images/products/hoof-rasp/hoof-rasp-01.webp",
+        "alt": "Hoof rasp with fitted handle — full view",
+        "originalName": "HJ5WgJTgtTilk5Ou7OE9JrbBDenq5UZhz4Kx9SOrO_3ykn7jBPWlvkR-5cUr5QcuWD3Ewe51JNugUsKZqa3zMfcM_OJyOIpbv0UJHacbaG6pSQIoXQpKcDv6jxL1Dw4gXRUna7-rsgPa3HDbZPUl1jH96ndaGLPtC3mhS57XlSOR7jifUG1mVNnrXEz_SXQ9.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 800,
+        "height": 556
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Rasp Handle",
+    "price": 23.95,
+    "category": "Hoof Trimming",
+    "purpose": "Grip a tanged rasp comfortably.",
+    "description": "Rasp Handle is a practical addition to a professional farrier toolkit, designed to grip a tanged rasp comfortably. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Fits tanged rasp designs",
+      "Ergonomic hand grip",
+      "Manual accessory"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-b535dffa5cdd",
+        "src": "/images/products/rasp-handle/rasp-handle-01.webp",
+        "alt": "Wooden rasp handle — full view",
+        "originalName": "ajvi2UBN_ZuodJBBuBlHuT2JvSwdPJMKYboXWTswMu2PKnlXZHNEgmrX9KkJOWnqA3b6NFN26LlheRtwpRCbQi8IzOJxmfD15kNt77MxMa5u4v8qxr9Hp_42bSlJeBNkBKdicfy6f3mMU_jipcknPA44qDoeMzdBSiIJKvdysvr4jOd7tifDcECzUjAdmIMA.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 400,
+        "height": 400
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hoof Stand",
+    "price": 499.9,
+    "category": "Hoof Trimming",
+    "purpose": "Support the hoof during trimming and finishing.",
+    "description": "Hoof Stand is a practical addition to a professional farrier toolkit, designed to support the hoof during trimming and finishing. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Adjustable hoof support",
+      "Stable standing base",
+      "For trimming and finishing"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-3a4736804772",
+        "src": "/images/products/hoof-stand/hoof-stand-01.webp",
+        "alt": "Hoof stand — full view",
+        "originalName": "MYhsGcAhAPRBFCXaIXpZzwafRXVZRxsb6e_tSblsprPDrR-1xDZMVqvr1Wdj8m7USL9hbAknwq1z1Q7c4vDZsY9RKSX_rSGdB3-2ASiwpWYtiSWnroGgP1KisgXCeoeim4jq2pOGmjCFkg8DzF9Mw6-8IeB8yt28Kxjm008yyZ-vmRCgLkZGN1G3tda7wbSw.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 1600,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Hoof Testers",
+    "price": 54.95,
+    "category": "Hoof Trimming",
+    "purpose": "Check the hoof for sensitivity with controlled pressure.",
+    "description": "Hoof Testers is a practical addition to a professional farrier toolkit, designed to check the hoof for sensitivity with controlled pressure. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Adjustable hand pressure",
+      "Opposing contact points",
+      "Manual diagnostic aid"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-a4c0ab581423",
+        "src": "/images/products/hoof-testers/hoof-testers-01.webp",
+        "alt": "Hoof testers — full view; brand and model unverified",
+        "originalName": "Ku5OA9Tp1xjRHl-mITDv4tVCf5j5T2un4bxOnt7OWjrgLaujNGFqWyRlZ7-wMhvJ5oIKTKN0Er4OtKjNCNyN4BpOX0nnzYCEWW2dPrdzKlkVSOLJrp2NgMQrTBOTIPkuWxiSKfzNW6br6TXFQFkaMXdN27VN3F5_nEA5NVlI1mYJdAKwIA2UwlV58mGZ96qC-2.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 737,
+        "height": 737
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Farrier Shoe Puller",
+    "price": 365,
+    "category": "Shoe Fitting and Removal",
+    "purpose": "Remove horseshoes.",
+    "description": "Photographed horseshoe pull-offs for local product review. Manufacturer, length and exact model have not been verified. The displayed amount is a demonstration price pending verification.",
+    "specs": [
+      "Manual shoe-removal tool",
+      "Full-product photograph supplied by the user",
+      "Brand, dimensions and model unverified"
+    ],
+    "variants": [],
+    "image": "",
+    "priceStatus": "demo-pending",
+    "gstStatus": "unverified",
+    "images": [
+      {
+        "id": "pictures-c98fbfb8627f",
+        "src": "/images/products/farrier-shoe-puller/farrier-shoe-puller-01.webp",
+        "alt": "Farrier shoe puller — full view; brand and size unverified",
+        "originalName": "k5rIW-8bn5CCR6ruPaa7BuQ_yRaMYKik-baTOcBVq4SpcXqpDmMclyNDiwziNQjUt4_Cdxo8oMHC2AD_avai0FtKuvNc3t0dnZMBwBzeySLegcGf2VwnEi2qIg3gfa_7MzdF13hAo-mBSGR-lE-JoVDw2F6KdEpYrwISia6MiUL4Nqb7oKBE_3IbhxxbQP4o.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 1280,
+        "height": 523
+      }
+    ],
+    "historicalSupplierUrl": "https://www.farriershop.com.au/ge-pull-offs/",
+    "historicalSupplier": "Farriershop / P3 Equestrian"
+  },
+  {
+    "id": 8,
+    "name": "Crease Nail Puller",
+    "price": 45,
+    "category": "Shoe Fitting and Removal",
+    "purpose": "Remove individual horseshoe nails.",
+    "description": "Crease Nail Puller is a practical addition to a professional farrier toolkit, designed to remove individual horseshoe nails. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Fine gripping jaws",
+      "Designed for nail heads",
+      "Manual extraction"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-0fddfad7f6db",
+        "src": "/images/products/crease-nail-puller/crease-nail-puller-01.webp",
+        "alt": "Crease nail puller — full view; maker marking retained",
+        "originalName": "te0_kkXL-1waqWuMEuZsld18NkCWyxNn7E6wq0wbP-F1eWB-v1bK1FnIldfNKyl3iz-bDmO-Axw1UYz2EQUwrTwPAip5HWiW_6MHdEw5myEA5KSTpya3mHaOT5rbG0cLZXJXG3qRRIWNjSwTooQQ6vz502K0S_o2XTDRzd4onFyXVj2PGwlHv2Jer5Te5RDS.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 1000,
+        "height": 1000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Clinch Cutter",
+    "price": 48,
+    "category": "Shoe Fitting and Removal",
+    "purpose": "Cut or lift old clinches before nail removal.",
+    "description": "Clinch Cutter is a practical addition to a professional farrier toolkit, designed to cut or lift old clinches before nail removal. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Chisel-style working edge",
+      "Hand-held striking tool",
+      "For old clinches"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-b6316986b1dd",
+        "src": "/images/products/clinch-cutter/clinch-cutter-01.webp",
+        "alt": "Nordic Forge clinch cutter — full view",
+        "originalName": "QxVNIGqoSFvOlOabA5ju7zDhRFSeUYL6QuFZMrgEUfMP2P7R0lfK4zxd-V7gx-SXKqqQxOGsuaGwTWxPUjXgCsXGweDoSmSs8G7GBrlC6_E1IkSH9phLtFaFsrX3ZcZkw9AJoaBezI_8O0pf3Q0pbR4Uztn8BtkKDI4iOyp2ckK7Dh3PDoW4yYNquQI-Gubh.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 500,
+        "height": 500
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Clincher",
+    "price": 49,
+    "category": "Shoe Fitting and Removal",
+    "purpose": "Bend and tighten nail ends against the hoof wall.",
+    "description": "Clincher is a practical addition to a professional farrier toolkit, designed to bend and tighten nail ends against the hoof wall. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Contoured clinching jaws",
+      "Hand-operated tool",
+      "For nail-end finishing"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-f295a75925a4",
+        "src": "/images/products/clincher/clincher-01.webp",
+        "alt": "Clincher — full view; maker marking retained",
+        "originalName": "F5ceOKfiGfNKYXlWhCUtMWEpSgAYYO5oru5vTeQ1cfu0XE2o3dTVoIyZgq7xTX2Is8j1ykaUp6PAglrkGiUmCIWbQENd21I11mN_S4OWZGa43bBCh_kiVe7YiqgejjlE39-xBIMESKK2-JDt-5paUxqRpEYubSlylpPQAo_QElIDU9HkFv1A3jusgkX9YPGm.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 1000,
+        "height": 1000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Driving Hammer",
+    "price": 65,
+    "category": "Shoe Fitting and Removal",
+    "purpose": "Drive horseshoe nails.",
+    "description": "Driving Hammer is a practical addition to a professional farrier toolkit, designed to drive horseshoe nails. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Farrier hammer head",
+      "Balanced hand grip",
+      "For horseshoe nails"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-3764aadf16b3",
+        "src": "/images/products/driving-hammer/driving-hammer-01.webp",
+        "alt": "Diamond driving hammer — full view",
+        "originalName": "pEkeWuzm9Fvk1ijoP84UNN_JYUuu543rR4TGxH8Fh29aOtUjfxM23QDV1ZblaQ6lz7CzvK5ps7U_V2Bp_FQR8AOFxIFEHilaMiokdBEUOb9yK-oRQ-ItYaUzQ8mHCY1vxj29ufS-ZfyunOAiYuzmjiVFXlQfRBRNF9R8M7J9lCAf6d8n9_6ZHrqZKg0Mlbtc.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 900,
+        "height": 900
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Horseshoe Nails",
+    "price": 28.5,
+    "category": "Shoe Fitting and Removal",
+    "purpose": "Secure horseshoes during fitting.",
+    "description": "Horseshoe Nails is a practical addition to a professional farrier toolkit, designed to secure horseshoes during fitting. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Photo packaging reads Mustad ESL Pitch 5",
+      "Photo packaging reads 54 mm and 250 pieces",
+      "Photo identifies this pack only; price remains sample data"
+    ],
+    "variants": [
+      "Size 5"
+    ],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-6339baa66a81",
+        "src": "/images/products/horseshoe-nails/horseshoe-nails-01.webp",
+        "alt": "Mustad ESL Pitch 5 nails — box marked 54 mm, 250 pieces",
+        "originalName": "CxMSd_gCc22AfixAIXIO4eIY6Bn3JCjqgvJfzDFBQgDMh9qcLRiyPuKht7xurMcwbdjYT41jS5O7lmOxY0QAkf0SOwuUQ4YvN8wOQQM0zv8cFWWLXS15zKmSvPTuka29ifVotZY1y3wvMMt_MjDEWFJ0Lumvdr10IJ0DMxtPmf-Tm5CNYZxyEt_KO-2EZ0EL.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 2176,
+        "height": 1510,
+        "variant": "Size 5"
+      }
+    ],
+    "defaultVariant": "Size 5"
+  },
+  {
+    "id": 13,
+    "name": "Short Leather Farrier Chaps",
+    "price": 169,
+    "category": "Protection and Storage",
+    "purpose": "Protect clothing during farrier work.",
+    "description": "Short farrier chaps shown in the supplied photograph. The brand is unverified; this is not presented as the previously referenced 3P model. The displayed amount is a demonstration price pending verification.",
+    "specs": [
+      "Short apron design",
+      "Reinforced front panels visible in photograph",
+      "Side tool holders visible in photograph",
+      "Exact materials, size and manufacturer unverified"
+    ],
+    "variants": [],
+    "image": "",
+    "priceStatus": "demo-pending",
+    "gstStatus": "unverified",
+    "images": [
+      {
+        "id": "pictures-c9308e7fd505",
+        "src": "/images/products/short-farrier-chaps/short-farrier-chaps-01.webp",
+        "alt": "Short leather farrier chaps — full view; brand unverified",
+        "originalName": "THE6KugD9nVo_W8uaTostrGmR11nDD8tfJWpJm-vUCMiQYlHRIkFH2SiYlS9qb1CyWcaPrnKHgiKsLtyVkgkbcAmLxotbLolx8OlyUq4Ywp5A20HrMA6_MvjCe7Ga92WpvxSS7Suafy9BguII5eQLsPirPO-wsMlXlAAIYTF7tgxkMQiohZGKHacTtaniN3e.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 1445,
+        "height": 1445
+      }
+    ],
+    "historicalSupplierUrl": "https://www.farriershop.com.au/3p-farrier-chaps/",
+    "historicalSupplier": "Farriershop / P3 Equestrian"
+  },
+  {
+    "id": 14,
+    "name": "Long Reinforced Leather Farrier Chaps",
+    "price": 220,
+    "category": "Protection and Storage",
+    "purpose": "Provide more leg coverage during farrier work.",
+    "description": "Long Reinforced Leather Farrier Chaps is a practical addition to a professional farrier toolkit, designed to provide more leg coverage during farrier work. This demonstration listing illustrates how a trade-supply store can present equipment clearly to Australian customers.",
+    "specs": [
+      "Extended leg coverage",
+      "Reinforced protective panels",
+      "Adjustable waist fit"
+    ],
+    "variants": [],
+    "image": "",
+    "images": [
+      {
+        "id": "pictures-7a6e0f448701",
+        "src": "/images/products/long-farrier-chaps/long-farrier-chaps-01.webp",
+        "alt": "Long reinforced farrier chaps — worn view; brand unverified",
+        "originalName": "hZmbI9enXMprGIlzlW1rSpARRvUY81ExwSJTU4-eN2R28UXien3HTV8ZYmiFPZMUQcIbW1UsDeyU2Jnkjh3Zb_Ux5AhwSx3dEYCFF0aVDB5Ywvh8nSIPsP6mjfhbeMTDw8CEZ7ASgLik_f789niAwde0OYerx_p8QEhjm6nyq63FKLunmkde3NtIGpvd0SI5.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 1946,
+        "height": 1946
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Leather Farrier Tool Roll",
+    "price": 205,
+    "category": "Protection and Storage",
+    "purpose": "Organise and carry hand tools.",
+    "description": "Leather tool roll shown open and rolled in the user-supplied photograph. Its maker and exact model are unverified; it is not represented as Kent FAR20. Tools shown are for illustration; inclusion is unverified. The displayed amount is a demonstration price pending verification.",
+    "specs": [
+      "Roll-up organiser",
+      "Individual tool pockets",
+      "Tie straps and eyelets visible in photograph",
+      "Dimensions and manufacturer unverified"
+    ],
+    "variants": [],
+    "image": "",
+    "priceStatus": "demo-pending",
+    "gstStatus": "unverified",
+    "images": [
+      {
+        "id": "pictures-d7db519ed809",
+        "src": "/images/products/leather-tool-roll/leather-tool-roll-01.webp",
+        "alt": "Leather tool roll — open and rolled views; brand unverified",
+        "originalName": "glmZ-PvZUF71egxYQSi95TI9JoC09rDhNaVvPtXbObiLCmv-qfX0ULZWEMkP1unpCePHJm5F4ia8LXnAN2HMKrLwSWhjgNQLMt2PzcruDseA2IyEuXga93SklETwknwUXdeudyy61hxV-LKBtuC7BBamgeycBVyXIAB4sziT3xW14C5IOsYSJ-sDHWc-YjOk.jpeg",
+        "source": "User-supplied Pictures folder; original supplier URL not provided",
+        "permission": "Pending — local review only",
+        "width": 1080,
+        "height": 1080
+      }
+    ],
+    "historicalSupplierUrl": "https://kentsaddlery.com.au/products/tool-roll-soft-leather-farriers/",
+    "historicalSupplier": "Kent Saddlery"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "hoof-trimming",
+    "source": "/Users/saberhussain/.codex/generated_images/01a1c0a1-fad0-7243-8ce5-bc3992110631/exec-2a893423-0304-4385-b6a7-a1992dde3dd0.png",
+    "original": "docs/category-imagery/originals/hoof-trimming.png",
+    "display": "public/images/categories/hoof-trimming.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 132934,
+    "provenance": "AI-generated decorative scene via built-in image_gen"
+  },
+  {
+    "slug": "shoe-fitting-removal",
+    "source": "/Users/saberhussain/.codex/generated_images/01a1c0a1-fad0-7243-8ce5-bc3992110631/exec-ae4ae313-3989-46b9-8f8e-807a517766d2.png",
+    "original": "docs/category-imagery/originals/shoe-fitting-removal.png",
+    "display": "public/images/categories/shoe-fitting-removal.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 307772,
+    "provenance": "AI-generated decorative scene via built-in image_gen"
+  },
+  {
+    "slug": "protection-storage",
+    "source": "/Users/saberhussain/.codex/generated_images/01a1c0a1-fad0-7243-8ce5-bc3992110631/exec-902f7674-aa08-44fc-a630-804818d11b5a.png",
+    "original": "docs/category-imagery/originals/protection-storage.png",
+    "display": "public/images/categories/protection-storage.webp",
+    "width": 1200,
+    "height": 800,
+    "bytes": 297526,
+    "provenance": "AI-generated decorative scene via built-in image_gen"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "original": "public/images/products/hoof-testers/hoof-testers-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/hoof-testers/hoof-testers-01.webp",
+    "sha256": "bf0407fca678f3991c1e5c4812c7be7c719f629dabb61b31a8e8aa753b377c5b"
+  },
+  {
+    "original": "public/images/products/rasp-handle/rasp-handle-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/rasp-handle/rasp-handle-01.webp",
+    "sha256": "dc3958a184414167297f22ed75b8eb858ad2f9e7c9b451b1e03f50e0ecf932b3"
+  },
+  {
+    "original": "public/images/products/farrier-shoe-puller/farrier-shoe-puller-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/farrier-shoe-puller/farrier-shoe-puller-01.webp",
+    "sha256": "c05b2cad06fd8885d01f801e322b7e0ad6cc45c08d6be5592704c4a4a95bf0c4"
+  },
+  {
+    "original": "public/images/products/crease-nail-puller/crease-nail-puller-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/crease-nail-puller/crease-nail-puller-01.webp",
+    "sha256": "4f465ccc7c505eca840e563955cdd29a3fe61afbae34ad0293feca79f5df85b9"
+  },
+  {
+    "original": "public/images/products/leather-tool-roll/leather-tool-roll-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/leather-tool-roll/leather-tool-roll-01.webp",
+    "sha256": "efb543273e3a90d5570a6b34a101de0b42ae802a8ce1f53a657d90c551960040"
+  },
+  {
+    "original": "public/images/products/hoof-nippers/hoof-nippers-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/hoof-nippers/hoof-nippers-01.webp",
+    "sha256": "0dba8f4e64a003a6660fc2633f7ee622be6e4bccbe91e63307651ef9bd6df727"
+  },
+  {
+    "original": "public/images/products/short-farrier-chaps/short-farrier-chaps-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/short-farrier-chaps/short-farrier-chaps-01.webp",
+    "sha256": "c5bf2df9af3af4901b96a4d49331eaa16d5b8886d9d839de12662ae706b8f702"
+  },
+  {
+    "original": "public/images/products/clincher/clincher-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/clincher/clincher-01.webp",
+    "sha256": "c55ca16e7661093b42fd5eb4119ed96fbe67dd2c356fa67b58c28a19bf3766a3"
+  },
+  {
+    "original": "public/images/products/long-farrier-chaps/long-farrier-chaps-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/long-farrier-chaps/long-farrier-chaps-01.webp",
+    "sha256": "546f6d4474782bfeeccf2671b1832eb54856523221b9195ac96296a9c926f041"
+  },
+  {
+    "original": "public/images/products/driving-hammer/driving-hammer-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/driving-hammer/driving-hammer-01.webp",
+    "sha256": "efab98da034f8066c34eaef381a7b177a5597a7da6eb993478cb4b39c4afc999"
+  },
+  {
+    "original": "public/images/products/hoof-rasp/hoof-rasp-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/hoof-rasp/hoof-rasp-01.webp",
+    "sha256": "7a8d77a01bb5304868b2822ea71166081d711697466768df6723afa9b5d69376"
+  },
+  {
+    "original": "public/images/products/horseshoe-nails/horseshoe-nails-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/horseshoe-nails/horseshoe-nails-01.webp",
+    "sha256": "d8523b7c5deb8e39624398401f6d3701bbfd09afa6831ae3d91a6aa8eb82839b"
+  },
+  {
+    "original": "public/images/products/clinch-cutter/clinch-cutter-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/clinch-cutter/clinch-cutter-01.webp",
+    "sha256": "2c41e7378d84ca35cfa83aa25fb45f41c2d11ccf444691a48f26ee3ecc4b3bed"
+  },
+  {
+    "original": "public/images/products/hoof-stand/hoof-stand-01.webp",
+    "backup": "backups/product-photos-2026-11-10-reset/public/images/products/hoof-stand/hoof-stand-01.webp",
+    "sha256": "79fb2ae289fe3302f175134667cf8853c35bf58cfcb8d58ef4526bf1059a72ad"
+  }
+]

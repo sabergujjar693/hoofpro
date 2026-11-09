@@ -1,0 +1,20 @@
+{
+  "chaps": {
+    "checkedOn": "2026-11-10",
+    "title": "3P Farrier Chaps",
+    "imageReference": "https://cdn2.bigcommerce.com/server5300/93f31/products/1500/images/2745/1-3P-Farrier-Chaps-Copyright-P3-Equestrian__50726.1629235807.460.500.jpg?c=2",
+    "displayedPrice": "169.00",
+    "gstFooter": "All prices AUD and include GST"
+  },
+  "kent": {
+    "checkedOn": "2026-11-10",
+    "title": "Tool Roll, Soft Leather, Farrier's at Kent Saddlery from $205.00",
+    "imageReference": "https://kentsaddlery.com.au/wp-content/uploads/2015/11/FAR20-1-1000x1000.jpg",
+    "basePrice": "205.00",
+    "customisationHints": [
+      "Medium - Up to 15cm long (+$45.00)",
+      "Medium - Up to 85 x 58mm (+$45.00)"
+    ],
+    "gstStatus": "unverified"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "target": "cloudflare-pages",
+  "staticStorefront": true,
+  "orderingEnabled": false,
+  "paymentsEnabled": false
+}
